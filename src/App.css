@@ -1,0 +1,35 @@
+.container {
+  display: flex;
+  justify-content: center;
+  width: 800px;
+  margin-top: 50px;
+}
+
+.workspace-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.header-container {
+  display: flex;
+  align-items: center;
+  
+}
+
+.refresh-btn-container {
+  margin-left: 35px;
+}
+
+.card-list {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 20px;
+}
+
+.form-control {
+  width: 300px;
+}
+
+.btn-success {
+  margin-top: 20px;
+}
